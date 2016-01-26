@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_1d35d2da",
+        "filename": "src/com/android/dreams/basic/ColorsLockScreen.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-01-26T09:53:37Z",
+      "side": 1,
+      "message": "set to false",
+      "range": {
+        "startLine": 36,
+        "startChar": 33,
+        "endLine": 36,
+        "endChar": 37
+      },
+      "revId": "bac4deb50646a808e89aa5878d8993e672d2218b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_3d320ef3",
+        "filename": "src/com/android/dreams/basic/ColorsLockScreen.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-01-26T09:53:37Z",
+      "side": 1,
+      "message": "change back to Log.v",
+      "range": {
+        "startLine": 40,
+        "startChar": 12,
+        "endLine": 40,
+        "endChar": 13
+      },
+      "revId": "bac4deb50646a808e89aa5878d8993e672d2218b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
